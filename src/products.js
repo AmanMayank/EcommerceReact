@@ -4,7 +4,7 @@ const products = [
         name:'Chair',
         image:'https://images.unsplash.com/photo-1573500020435-82d72d6459b6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hhaXJ8ZW58MHwyfDB8&auto=format&fit=crop&w=500&q=60',
         price:'2000',
-        description:'A place to sit',
+        description:'High Back chair, Nylon Netted Mesh, Push Back Design Structure, PU Moulded Seat, 90 Degree Tilt Lock, Pneumatic Seat Height Adjustment, PP Arm Rest, Fiber Base, Wheels Regal Castor Branded..',
         rating:4
     },
     {
@@ -12,7 +12,7 @@ const products = [
         name:'Table',
         image:'https://images.unsplash.com/photo-1572216026870-aa136802e931?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dGFibGV8ZW58MHwyfDB8&auto=format&fit=crop&w=500&q=60',
         price:'5000',
-        description:'A place to sit',
+        description:'The rectangular shaped coffee table is made up of highly durable black colored stainless steel metal and a glass top. Its contemporary, modern design makes it usable for multiple purposes.',
         rating:3
     },
     {
@@ -20,7 +20,7 @@ const products = [
         name:'Phone',
         image:'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8cGhvbmV8ZW58MHwyfDB8&auto=format&fit=crop&w=500&q=60',
         price:'10000',
-        description:'A place to sit',
+        description:'Enjoy an unbelievably good standby time of up to 45 days and long hours of usage on a single full charge as this smartphone rocks a 6,000-mAh battery.',
         rating:5
     },
     {
@@ -28,7 +28,7 @@ const products = [
         name:'Laptop',
         image:'https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=500&q=60',
         price:'50000',
-        description:'A place to sit',
+        description:'Explore the creative side in you when you start working on the ASUS ZenBook Pro 15 laptop whose elegant design comes with an intelligent touchpad and a touchscreen display which supports ASUS Pen.',
         rating:3
     },
     {
@@ -36,7 +36,7 @@ const products = [
         name:'Book',
         image:'https://images.unsplash.com/photo-1598618253208-d75408cee680?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Ym9va3xlbnwwfDJ8MHw%3D&auto=format&fit=crop&w=500&q=60',
         price:'1000',
-        description:'A place to sit',
+        description:'Warm,funny,and life-affirming!-Anshu Mor,Stand-up Comedian.Imagine you disappear. Twenty years later,three people are looking for you. One is dying to meet you again.',
         rating:2
     },
     {
@@ -44,7 +44,7 @@ const products = [
         name:'Fridge',
         image:'https://images.unsplash.com/photo-1487770931682-b80013ed9cc9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZnJpZGdlfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=500&q=60',
         price:'12000',
-        description:'A place to sit',
+        description:'This Samsung 192 L refrigerator can be an ideal addition to your kitchen. It can easily deal with voltage fluctuations, thanks to its Stabilizer-free operation.',
         rating:4.5
     },
     {
@@ -52,7 +52,7 @@ const products = [
         name:'Bag',
         image:'https://images.unsplash.com/photo-1605124131414-78db40a8d5be?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFnfGVufDB8MnwwfA%3D%3D&auto=format&fit=crop&w=500&q=60',
         price:'500',
-        description:'A place to sit',
+        description:'100% Hi Quality leatherette sling bag| cross body bag | hand messenger bag with dimension detail 10*2.5*9.5 inches',
         rating:3
     },
 ]
