@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EcommerceReact/static/css/main.f86d114f.chunk.css",
+    "main.js": "/EcommerceReact/static/js/main.cb9e2c21.chunk.js",
+    "main.js.map": "/EcommerceReact/static/js/main.cb9e2c21.chunk.js.map",
+    "runtime-main.js": "/EcommerceReact/static/js/runtime-main.0cca5a79.js",
+    "runtime-main.js.map": "/EcommerceReact/static/js/runtime-main.0cca5a79.js.map",
+    "static/css/2.83342f34.chunk.css": "/EcommerceReact/static/css/2.83342f34.chunk.css",
+    "static/js/2.ad4150e2.chunk.js": "/EcommerceReact/static/js/2.ad4150e2.chunk.js",
+    "static/js/2.ad4150e2.chunk.js.map": "/EcommerceReact/static/js/2.ad4150e2.chunk.js.map",
+    "static/js/3.25b1fa02.chunk.js": "/EcommerceReact/static/js/3.25b1fa02.chunk.js",
+    "static/js/3.25b1fa02.chunk.js.map": "/EcommerceReact/static/js/3.25b1fa02.chunk.js.map",
+    "index.html": "/EcommerceReact/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/EcommerceReact/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.f86d114f.chunk.css.map": "/EcommerceReact/static/css/main.f86d114f.chunk.css.map",
+    "static/js/2.ad4150e2.chunk.js.LICENSE.txt": "/EcommerceReact/static/js/2.ad4150e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cca5a79.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.ad4150e2.chunk.js",
+    "static/css/main.f86d114f.chunk.css",
+    "static/js/main.cb9e2c21.chunk.js"
+  ]
+}
